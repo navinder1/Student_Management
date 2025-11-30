@@ -4,7 +4,7 @@ import axios from 'axios';
 import './index.css';
 
 // API Configuration - Your Spring Boot backend URL
-const API_BASE_URL = 'http://localhost:8080/student';
+const API_BASE_URL = 'https://student-a52l.onrender.com/student';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
