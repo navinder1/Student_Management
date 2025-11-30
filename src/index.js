@@ -308,7 +308,7 @@ function StudentManagementApp() {
       {/* Header */}
       <div style={styles.header}>
         <div>
-          <h1 style={styles.headerTitle}>🎓 Student Management System</h1>
+          <h1 style={styles.headerTitle}>🎓 Student Management </h1>
           <p style={{color: '#666', fontSize: '14px', marginTop: '5px'}}>
             Logged in as: <strong style={{color: '#667eea'}}>Admin</strong> | 
             🔌 Connected to: <strong>{API_BASE_URL}</strong>
